@@ -1,0 +1,13 @@
+{
+     "Waves": [
+         {"wave":1, "count":1, "side":0},
+         {"wave":2, "count":2, "side":1},
+		 {"wave":3, "count":3, "side":0},
+		 {"wave":4, "count":4, "side":0},
+		 {"wave":5, "count":3, "side":0},
+		 {"wave":6, "count":3, "side":0},
+		 {"wave":7, "count":3, "side":0},
+		 {"wave":8, "count":4, "side":0},
+		 {"wave":9, "count":4, "side":0},
+     ]
+ }
